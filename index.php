@@ -1,10 +1,9 @@
 /**
-* Galeria de Imagens para postagens no wordpress start.
+ * novatopnet Galeria 2025
+ 
+ 1 - Estrutura HTML Dinâmica
+Adicione o seguinte código ao seu template index.php ou ao local onde deseja exibir a galeria
 
-* 1 - Estrutura HTML Dinâmica
-Adicione o seguinte código ao seu template index.php ou ao local onde deseja exibir a galeria:
-
-* @since 2025
 */
 
 <div class="gallery-container">
