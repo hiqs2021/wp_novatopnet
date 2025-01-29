@@ -1,6 +1,9 @@
 /**
- * Galeria de Imagens para postagens no wordpress start.
-*
+* Galeria de Imagens para postagens no wordpress start.
+
+* 1 - Estrutura HTML Dinâmica
+Adicione o seguinte código ao seu template index.php ou ao local onde deseja exibir a galeria:
+
 * @since 2025
 */
 
