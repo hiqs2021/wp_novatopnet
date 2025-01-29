@@ -1,3 +1,11 @@
+/**
+ * novatopnet Galeria 2025
+ 
+3. Implementação JavaScript
+Crie um arquivo JavaScript chamado script.js com o seguinte conteúdo e armazene-o na pasta /wp-content/wp_novatopnet/js/
+
+*/
+
 document.addEventListener("DOMContentLoaded", function() {
   const badges = document.querySelectorAll('.badge');
 
