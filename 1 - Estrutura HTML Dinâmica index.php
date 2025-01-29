@@ -4,13 +4,13 @@
  1 - Estrutura HTML Dinâmica
 Adicione o seguinte código ao seu template index.php ou ao local onde deseja exibir a galeria
 
-*/
+*////////////////////////////////////////
 
 <div class="gallery-container">
   <?php
     $args = array(
-      'posts_per_page' => 9,
-      'post_status'    => 'publish',
+      'posts_per_page' => 9, // Número de posts a serem exibidos
+      'post_status'    => 'publish', // Apenas posts publicados
     );
 
     $recent_posts = new WP_Query($args);
