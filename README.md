@@ -1,9 +1,10 @@
 Estrutura de Arquivos Completa
+
 /wp-content/wp_novatopnet/
   /css/style.css
   /js/script.js
-  /fonts/Poppins-Regular.woff2
-  /fonts/Poppins-Bold.woff2
+  /fonts/Poppins-Regular.woff2 e Poppins-Bold.woff2
+  
 
 Agora vamos garantir que todas as partes do código sejam completas e prontas para implementação no WordPress.
 
